@@ -1,6 +1,6 @@
 ## Install
 
-Linux 64-bit
+[Postman](https://www.getpostman.com/) Linux 64-bit
 
 ```bash
 $ . ./install.sh
